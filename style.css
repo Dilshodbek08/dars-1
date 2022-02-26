@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+  padding: 10px 10px
+}
+.container {
+  
+  width: 80%;
+  margin: 0 auto;
+}
+.First {
+  background-color:#c8cfe3;
+  padding: 20px 30px;
+  border: 5px solid rgba(28, 10, 104, 0.5); 
+}
+.First h1{ 
+  text-align: center;
+  margin: 0;
+  text-decoration:double;
+  font-family: 'Times New Roman';
+  color:#61677a;
+}
+.First p {
+  text-align: left;
+  color:#709185;
+  text-align: center;
+}
+.button {
+  text-align:center;
+  background-color:#7890d4;
+  color:rgb(37, 30, 71);
+  padding: 7px 10px;
+  margin: 0 auto;
+  border: 2px solid #000000;
+  font-size: 15px;
+  border-radius: 5px;
+}
+.button:hover{
+  cursor:pointer;
+  background-color:aliceblue;
+}
+.Royhat {
+  padding: 0px;
+  background-color:#91792c;
+  text-align: center;
+}
+.Royhat h1{
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 40px;
+}
+.Royhat li{
+  list-style-type: none;
+  padding: 5px 5px;
+  font-size: 20px;
+  font-style:oblique;
+  color:rgb(71, 7, 7);
+  text-align: left;
+}
+.My form{
+  font-size:20px;
+  background-color:#9fa4b4;
+  padding: 5px 5px;
+  border: 2px solid #615f82;
+  width: 100%;
+  margin: 0 auto;
+}
+.My form label{
+  display: block;
+}
+.My form input, .My form textarea{
+  
+  margin: 8px 0;
+  padding: 5px;
+  width: 100%;
+}
+.block {
+  text-align: center;
+  margin: 8px 0;
+  float: left;
+  width: 33.3%;
+}
